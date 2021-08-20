@@ -1,7 +1,7 @@
 # Mark1
 # HOW WELL DO YOU KNOW ME QUIZ
 
-# Getting started
+# About:
 
 It's CLI(Command Line Interface) app which contains questions about myself(Radheshyam) .
 
