@@ -17,6 +17,6 @@ It's CLI(Command Line Interface) app which contains questions about myself(Radhe
 ********
 
 ## Project link :
- Do you know me:https://replit.com/@DevNirah7/Mark1-How-much-do-you-know-about-me#index.js
+ https://replit.com/@DevNirah7/Mark1-How-much-do-you-know-about-me#index.js
 
 
